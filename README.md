@@ -1,3 +1,3 @@
 # Demo
 
-First Repo,Yay!
+First Repo,Wow!
